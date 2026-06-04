@@ -1,0 +1,2 @@
+2024-01-15 10:00:01 INFO Server initialized successfully
+{"timestamp": "2024-01-15 10:01:15", "level": "INFO", "message": "User login attempt from IP 192.168.1.50"}
