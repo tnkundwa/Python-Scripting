@@ -1,0 +1,12 @@
+2024-01-15 10:00:01 INFO Server initialized successfully
+{"timestamp": "2024-01-15 10:01:15", "level": "INFO", "message": "User login attempt from IP 192.168.1.50"}
+2024-01-15 10:03:22 ERROR Database timeout
+{"timestamp": "2024-01-15 10:04:10", "level": "WARNING", "message": "Disk usage reaching 85%"}
+2024-01-15 10:05:00 INFO Connection pool refreshed
+2024-01-15 10:07:44 ERROR Database timeout
+{"timestamp": "2024-01-15 10:12:33", "level": "INFO", "message": "Cron job completed successfully"}
+2024-01-15 10:14:12 WARNING Rate limit exceeded for API user_402
+2024-01-15 10:15:01 ERROR Database timeout
+{"timestamp": "2024-01-15 10:18:59", "level": "ERROR", "message": "Auth failed for user 'admin'"}
+2024-01-15 10:20:00 INFO Outbound sync started
+{"timestamp": "2024-01-15 10:22:11", "level": "ERROR", "message": "Database timeout"}
