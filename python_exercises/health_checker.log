@@ -1,0 +1,6 @@
+{
+  "servers": [
+    "https://httpbin.org/status/200",
+    "https://httpbin.org/json"
+  ]
+}
